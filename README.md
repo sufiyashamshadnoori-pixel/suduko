@@ -1,3 +1,4 @@
 # suduko
 game <br>
-author: Sufiya Shamshad
+author: Sufiya Shamshad (muskan)
+
